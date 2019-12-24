@@ -10,5 +10,5 @@ setup(
     author='veera',
     author_email='veerabhadrarao.uppu@nexiilabs.com',
     description='asdfg_description',
-    download_url="https://github.com/uvbr/package_creation.git"
+    download_url="https://github.com/uvbr/package_creation/archive/0.1.tar.gz"
 )
