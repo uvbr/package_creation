@@ -4,7 +4,7 @@ setup(
     name='asdfg',
     version='0.1',
     packages=find_packages(exclude=['documentation.txt']),
-    package_dir={'':'asdfg},
+    package_dir={'':'asdfg'},
     url="http://www.example.com",
     license='',
     author='veera',
