@@ -5,4 +5,4 @@ class Arithmetic:
         self.common_diff= common_diff
 
     def nth_term(self, nth_pos):
-        return self.first_term+1+ (nth_pos-1)*self.common_diff
+        return self.first_term+2+ (nth_pos-1)*self.common_diff
